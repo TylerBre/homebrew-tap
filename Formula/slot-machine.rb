@@ -8,8 +8,8 @@
 class SlotMachine < Formula
   desc "Orchestrate tmux + git worktrees for Claude agent fleets (CLI + MCP server)"
   homepage "https://github.com/tylerbre/slot-machine"
-  url "https://github.com/tylerbre/slot-machine/releases/download/v1.3.0/slot-machine-v1.3.0.tar.gz"
-  sha256 "dbb2372055288297c6ac470b46532d5a83732ff1298c5cb1faf3b3540b7fcfb3" # regenerate per release
+  url "https://github.com/TylerBre/slot-machine/releases/download/v1.4.0/slot-machine-v1.4.0.tar.gz"
+  sha256 "eb72d07bb52d1c75b898a75cd90e1b426ab0fd74396745fadbd40ff977dde80d" # regenerate per release
   license "GPL-3.0-or-later"
 
   depends_on "node"
